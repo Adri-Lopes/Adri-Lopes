@@ -11,6 +11,6 @@ Find me on the links below!
 <a href="https://www.linkedin.com/in/adriano-lopes-316b18100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<br><br>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12163330117)
