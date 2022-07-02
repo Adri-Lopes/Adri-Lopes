@@ -11,7 +11,7 @@ Find me on the links below!
 <a href="https://www.linkedin.com/in/adriano-lopes-316b18100/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br><br>
+<br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12163330117&cover_image=true&theme=default&bar_color=000000&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12163330117&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 
